@@ -1,0 +1,37 @@
+[
+    {
+        "product_id": "P1001",
+        "product_name": "Laptop",
+        "description": "High performance laptop for programming and office work",
+        "price": 55000,
+        "quantity": 10
+    },
+    {
+        "product_id": "P1002",
+        "product_name": "Mouse",
+        "description": "Wireless computer mouse",
+        "price": 800,
+        "quantity": 25
+    },
+    {
+        "product_id": "P1003",
+        "product_name": "Keyboard",
+        "description": "Mechanical keyboard for programming and gaming",
+        "price": 1500,
+        "quantity": 15
+    },
+    {
+        "product_id": "P1004",
+        "product_name": "Headphones",
+        "description": "Wireless headphones with noise cancellation",
+        "price": 3000,
+        "quantity": 8
+    },
+    {
+        "product_id": "P1005",
+        "product_name": "Mobile Phone",
+        "description": "Smartphone with high performance processor",
+        "price": 25000,
+        "quantity": 12
+    }
+]

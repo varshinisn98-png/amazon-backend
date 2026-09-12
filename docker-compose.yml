@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  backend:
+    build: .
+    container_name: amazon_backend_app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./amazon.db:/app/amazon.db
+      - ./chroma_db:/app/chroma_db
+    restart: always
